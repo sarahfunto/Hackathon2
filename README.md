@@ -35,7 +35,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 model_dir = "sarahfunto/genetic-lora-merged"
 tokenizer = AutoTokenizer.from_pretrained(model_dir)
 model = AutoModelForSequenceClassification.from_pretrained(model_dir)
-
+```
 ---
 
 ## 🚀 How to Run
