@@ -5,8 +5,9 @@ from src.rag import build_rag_index, explain_case
 
 def main():
     # 1) Load the fine-tuned model and tokenizer
-    model_dir = "models/genetic_lora_model"
-    tokenizer, model = load_model(model_dir)
+model_dir = "sarahfunto/genetic-lora-merged"
+tokenizer, model = load_model(model_dir)
+
 
     # 2) Build RAG components (SentenceTransformer + FAISS index)
     embed_model, index = build_rag_index()
@@ -56,3 +57,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
