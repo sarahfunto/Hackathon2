@@ -1,8 +1,8 @@
-## Genetic Counseling Triage Assistant (Educational Prototype)
+# Genetic Counseling Triage Assistant (Educational Prototype)
 
 
 
-# Description 
+## Description 
 
 This project is an educational prototype of a genetic counseling triage assistant.
 
@@ -21,9 +21,8 @@ This project is based only on synthetic, simplified data.
 It must never be used for real medical decisions.  
 It is for training / hackathon / educational purposes only.
 
----
 
-# Project structure
+## Project structure
 
 ```text
 Hackathon2/
