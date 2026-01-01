@@ -36,6 +36,33 @@ model_dir = "sarahfunto/genetic-lora-merged"
 tokenizer = AutoTokenizer.from_pretrained(model_dir)
 model = AutoModelForSequenceClassification.from_pretrained(model_dir)
 
+---
+
+## 🚀 How to Run
+
+Follow these steps to run the genetic counseling triage assistant locally.
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/sarahfunto/Hackathon2.git
+cd Hackathon2
+### 2. Install dependencies
+pip install -r requirements.txt
+### 3. Run the assistant
+python main.py
+###4. Enter a case description
+When the program starts, paste a short description (in English), e.g.:
+Patient 33 years old. Mother breast cancer at 39.
+Maternal aunt ovarian cancer at 52.
+Then press ENTER on an empty line to run.
+###Example output
+=== MODEL PREDICTION ===
+{'pred_label': 'high_risk_counseling', 'confidence': 0.91, ...}
+
+=== RELEVANT GUIDELINES ===
+- Multiple early-onset breast cancers in first-degree relatives...
+- Known mutations such as BRCA1/2 justify genetic counseling...
+WARNING : This tool is not a medical device and is built from synthetic data only
 
 
 ## Project structure
