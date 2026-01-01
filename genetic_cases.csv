@@ -1,0 +1,1001 @@
+case_text,label,category,reason
+"Patient 21 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 65 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 20 years old, known hereditary mutation (PALB2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 33 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, one parent diagnosed with ovarian cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 25 years old, known hereditary mutation (BRCA1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 43 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 35 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, multiple first-degree relatives with early-onset thyroid cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 22 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 56 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 61 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 68 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 47 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 53 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 63 years old, one first-degree relative with early-onset pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 30 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 60 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 69 years old, sibling diagnosed with breast cancer at 30.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 43 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 25 years old, multiple first-degree relatives with early-onset ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 30 years old, parent and grandparent both diagnosed with pancreatic cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, parent and grandparent both diagnosed with thyroid cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 61 years old, parent and grandparent both diagnosed with stomach cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 34 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 51 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 50 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, one parent diagnosed with ovarian cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 26 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 47 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, multiple first-degree relatives with early-onset prostate cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 51 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 64 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 23 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 50 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 24 years old, parent and grandparent both diagnosed with ovarian cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 46 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 45 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 59 years old, one parent diagnosed with breast cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 26 years old, multiple first-degree relatives with early-onset colorectal cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 29 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, one parent diagnosed with pancreatic cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 23 years old, known hereditary mutation (PALB2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 41 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 29 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 35 years old, multiple first-degree relatives with early-onset colorectal cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 41 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 49 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 62 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 69 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 36 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 56 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 41 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 52 years old, known hereditary mutation (PALB2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 38 years old, sibling diagnosed with colorectal cancer at 33.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 31 years old, one first-degree relative with early-onset pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 48 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 38 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 34 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 50 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, two second-degree relatives with prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 20 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, strong family clustering of prostate cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 27 years old, parent and grandparent both diagnosed with prostate cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, sibling diagnosed with stomach cancer at 39.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 55 years old, parent and grandparent both diagnosed with prostate cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 68 years old, sibling diagnosed with thyroid cancer at 28.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 41 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 41 years old, two second-degree relatives with prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, parent and grandparent both diagnosed with breast cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 42 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 37 years old, sibling diagnosed with melanoma at 20.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 59 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 25 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 67 years old, one first-degree relative with early-onset breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, strong family clustering of breast cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 59 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 30 years old, multiple first-degree relatives with early-onset ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 39 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 58 years old, multiple first-degree relatives with early-onset ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 47 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 46 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 49 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 54 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 35 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 56 years old, parent and grandparent both diagnosed with melanoma before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 31 years old, known hereditary mutation (BRCA2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 58 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 66 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 61 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 34 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 67 years old, sibling diagnosed with stomach cancer at 42.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 36 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 67 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 57 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 31 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 23 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 23 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 24 years old, one parent diagnosed with breast cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 35 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, sibling diagnosed with thyroid cancer at 32.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 39 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 67 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 25 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 46 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, known hereditary mutation (BRCA2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, sibling diagnosed with pancreatic cancer at 23.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, sibling diagnosed with melanoma at 36.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 58 years old, one parent diagnosed with breast cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 21 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, strong family clustering of pancreatic cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 61 years old, sibling diagnosed with prostate cancer at 25.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 51 years old, sibling diagnosed with ovarian cancer at 31.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 62 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 38 years old, sibling diagnosed with melanoma at 21.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 36 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, strong family clustering of prostate cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 59 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 55 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 27 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 29 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 20 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 48 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 44 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 44 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 65 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 48 years old, multiple first-degree relatives with early-onset ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 46 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 51 years old, strong family clustering of breast cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 38 years old, sibling diagnosed with thyroid cancer at 22.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 68 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 21 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 49 years old, strong family clustering of pancreatic cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 42 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 39 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 56 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 62 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 67 years old, strong family clustering of prostate cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 42 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 66 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 48 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 38 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 36 years old, known hereditary mutation (MLH1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 49 years old, strong family clustering of ovarian cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 66 years old, multiple first-degree relatives with early-onset melanoma.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 20 years old, parent and grandparent both diagnosed with pancreatic cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 67 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 46 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 51 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 61 years old, parent and grandparent both diagnosed with ovarian cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 37 years old, strong family clustering of breast cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 35 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 27 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 58 years old, one parent diagnosed with breast cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, one first-degree relative with early-onset stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 29 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 21 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 21 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 53 years old, sibling diagnosed with ovarian cancer at 22.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 43 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, multiple first-degree relatives with early-onset pancreatic cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 50 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 48 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 58 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, strong family clustering of thyroid cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 49 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 40 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 25 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 27 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 66 years old, known hereditary mutation (MLH1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 26 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 56 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 61 years old, one parent diagnosed with breast cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 29 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 53 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 29 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 48 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 33 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 69 years old, known hereditary mutation (MLH1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 51 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, one first-degree relative with early-onset stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 49 years old, sibling diagnosed with ovarian cancer at 38.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, sibling diagnosed with melanoma at 23.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 40 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 26 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 30 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 32 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 29 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 61 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 68 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, multiple first-degree relatives with early-onset stomach cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 60 years old, one first-degree relative with early-onset pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 38 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 50 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 41 years old, strong family clustering of ovarian cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 65 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 38 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 23 years old, one first-degree relative with early-onset stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 57 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 65 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 41 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 47 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 29 years old, multiple first-degree relatives with early-onset ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 29 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 59 years old, parent and grandparent both diagnosed with pancreatic cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 35 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 56 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 52 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 36 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 26 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 52 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, parent and grandparent both diagnosed with breast cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 35 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 26 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 50 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 25 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 66 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 27 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 51 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 38 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 46 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 50 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 21 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, one parent diagnosed with ovarian cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 42 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 50 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 49 years old, multiple first-degree relatives with early-onset breast cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 22 years old, parent and grandparent both diagnosed with stomach cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 42 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 53 years old, sibling diagnosed with pancreatic cancer at 43.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 58 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 40 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 48 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 47 years old, one first-degree relative with early-onset pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 29 years old, multiple first-degree relatives with early-onset prostate cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 61 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, sibling diagnosed with prostate cancer at 31.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 56 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 37 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, one parent diagnosed with ovarian cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 52 years old, strong family clustering of thyroid cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 51 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 24 years old, multiple first-degree relatives with early-onset colorectal cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 63 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, multiple first-degree relatives with early-onset melanoma.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 39 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 53 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, one parent diagnosed with pancreatic cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 25 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 59 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 61 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 21 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 39 years old, sibling diagnosed with prostate cancer at 45.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 33 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 40 years old, known hereditary mutation (MSH2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 26 years old, one first-degree relative with early-onset stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 35 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 59 years old, known hereditary mutation (BRCA2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 66 years old, strong family clustering of stomach cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 52 years old, sibling diagnosed with prostate cancer at 29.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 45 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 38 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, sibling diagnosed with melanoma at 21.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 55 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 52 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 26 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, sibling diagnosed with colorectal cancer at 39.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, one parent diagnosed with breast cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 53 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 59 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 52 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 21 years old, one first-degree relative with early-onset stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 57 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 50 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 57 years old, sibling diagnosed with prostate cancer at 36.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 48 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 46 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 53 years old, sibling diagnosed with thyroid cancer at 30.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 40 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, known hereditary mutation (BRCA2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 64 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, sibling diagnosed with pancreatic cancer at 23.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 45 years old, multiple first-degree relatives with early-onset stomach cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 65 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 33 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 59 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 23 years old, sibling diagnosed with ovarian cancer at 30.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 69 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 50 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 66 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 38 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 41 years old, sibling diagnosed with pancreatic cancer at 40.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, multiple first-degree relatives with early-onset prostate cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 66 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 41 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 62 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 35 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 37 years old, one first-degree relative with early-onset stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 43 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 30 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, two second-degree relatives with prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 24 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 29 years old, sibling diagnosed with colorectal cancer at 36.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 49 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 45 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 23 years old, one parent diagnosed with ovarian cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 69 years old, sibling diagnosed with colorectal cancer at 43.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 62 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 54 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 47 years old, sibling diagnosed with melanoma at 27.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 62 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 24 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 65 years old, one first-degree relative with early-onset breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 34 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 66 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 29 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 57 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 23 years old, sibling diagnosed with stomach cancer at 41.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 40 years old, known hereditary mutation (MSH2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 68 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 29 years old, parent and grandparent both diagnosed with prostate cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, known hereditary mutation (MSH2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 61 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 32 years old, one first-degree relative with early-onset breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 32 years old, known hereditary mutation (MSH2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 20 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, two second-degree relatives with prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 35 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, sibling diagnosed with pancreatic cancer at 31.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 66 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 57 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 51 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 66 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 24 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 34 years old, multiple first-degree relatives with early-onset ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 49 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 21 years old, sibling diagnosed with breast cancer at 37.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 53 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 64 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 35 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, parent and grandparent both diagnosed with melanoma before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 35 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, sibling diagnosed with breast cancer at 32.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 50 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 47 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 64 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 37 years old, one first-degree relative with early-onset breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 57 years old, multiple first-degree relatives with early-onset colorectal cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 67 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 41 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 48 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, strong family clustering of ovarian cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 70 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 25 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 26 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 25 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 69 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 30 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 51 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 39 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 66 years old, strong family clustering of prostate cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 28 years old, one parent diagnosed with pancreatic cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, parent and grandparent both diagnosed with stomach cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 61 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 32 years old, parent and grandparent both diagnosed with prostate cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 38 years old, strong family clustering of prostate cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 37 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 49 years old, known hereditary mutation (MSH2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 24 years old, strong family clustering of melanoma, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 35 years old, sibling diagnosed with pancreatic cancer at 24.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 52 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 54 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 42 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, sibling diagnosed with melanoma at 45.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 26 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, two second-degree relatives with prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 21 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 25 years old, known hereditary mutation (PALB2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 49 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 48 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 30 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 47 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 31 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 47 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 68 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 32 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, sibling diagnosed with stomach cancer at 32.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 42 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, multiple first-degree relatives with early-onset pancreatic cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 40 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 56 years old, sibling diagnosed with melanoma at 25.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, sibling diagnosed with colorectal cancer at 25.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 31 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, parent and grandparent both diagnosed with prostate cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 52 years old, parent and grandparent both diagnosed with prostate cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 48 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 34 years old, strong family clustering of pancreatic cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 30 years old, sibling diagnosed with prostate cancer at 43.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 27 years old, one parent diagnosed with ovarian cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 68 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 26 years old, parent and grandparent both diagnosed with thyroid cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 25 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 67 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 28 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 52 years old, parent and grandparent both diagnosed with ovarian cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 37 years old, strong family clustering of colorectal cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 40 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, one parent diagnosed with ovarian cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 43 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 66 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 42 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, known hereditary mutation (MLH1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 49 years old, parent and grandparent both diagnosed with breast cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 47 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 62 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 20 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 53 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 47 years old, strong family clustering of colorectal cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 66 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 28 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 53 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 66 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 59 years old, multiple first-degree relatives with early-onset prostate cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 27 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 35 years old, strong family clustering of pancreatic cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 58 years old, one parent diagnosed with pancreatic cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 58 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 28 years old, known hereditary mutation (TP53) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 31 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, sibling diagnosed with melanoma at 42.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 54 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 33 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, sibling diagnosed with ovarian cancer at 42.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 35 years old, sibling diagnosed with breast cancer at 22.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 59 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 65 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, sibling diagnosed with ovarian cancer at 30.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 52 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 36 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 52 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 65 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 66 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 24 years old, known hereditary mutation (MLH1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 57 years old, two second-degree relatives with prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 46 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 64 years old, sibling diagnosed with breast cancer at 20.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 66 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 46 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 22 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 67 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 45 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 45 years old, known hereditary mutation (MLH1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 32 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 48 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 69 years old, sibling diagnosed with thyroid cancer at 29.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 27 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 64 years old, strong family clustering of breast cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 35 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 36 years old, sibling diagnosed with colorectal cancer at 32.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 55 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, strong family clustering of ovarian cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 45 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 36 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 48 years old, known hereditary mutation (BRCA1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 49 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 42 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 29 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 51 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, one parent diagnosed with breast cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 31 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 69 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 69 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, sibling diagnosed with breast cancer at 38.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 31 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 64 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, sibling diagnosed with colorectal cancer at 26.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 31 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 34 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 59 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 40 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 29 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 62 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 28 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 31 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 66 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 56 years old, strong family clustering of melanoma, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 59 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 29 years old, strong family clustering of stomach cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 40 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 36 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 66 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 63 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, known hereditary mutation (BRCA1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 24 years old, strong family clustering of stomach cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, sibling diagnosed with ovarian cancer at 39.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 47 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 41 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 39 years old, sibling diagnosed with thyroid cancer at 21.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 51 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 38 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 48 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 37 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 53 years old, parent and grandparent both diagnosed with melanoma before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 35 years old, sibling diagnosed with prostate cancer at 22.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 63 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 30 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 36 years old, multiple first-degree relatives with early-onset stomach cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 57 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, parent and grandparent both diagnosed with stomach cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 59 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 23 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, known hereditary mutation (BRCA2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 48 years old, parent and grandparent both diagnosed with stomach cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 25 years old, sibling diagnosed with thyroid cancer at 26.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 68 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 32 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 58 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 36 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 56 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 37 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 58 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 62 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 26 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 37 years old, one parent diagnosed with pancreatic cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 53 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, sibling diagnosed with colorectal cancer at 20.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 36 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 65 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 62 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 36 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 57 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, strong family clustering of pancreatic cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 32 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 65 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 31 years old, one first-degree relative with early-onset stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 68 years old, sibling diagnosed with ovarian cancer at 39.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 45 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 32 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 26 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 22 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 30 years old, strong family clustering of melanoma, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 28 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 59 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 21 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 27 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 37 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 53 years old, parent and grandparent both diagnosed with thyroid cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 22 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 62 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 66 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 38 years old, one first-degree relative with early-onset pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 22 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 67 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 28 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 37 years old, strong family clustering of ovarian cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 45 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 61 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 30 years old, sibling diagnosed with ovarian cancer at 38.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, parent and grandparent both diagnosed with prostate cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 59 years old, strong family clustering of breast cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 51 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 62 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 26 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 62 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 30 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 40 years old, multiple first-degree relatives with early-onset thyroid cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 56 years old, sibling diagnosed with prostate cancer at 35.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 51 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, parent and grandparent both diagnosed with thyroid cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 43 years old, known hereditary mutation (BRCA2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 59 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 27 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 22 years old, sibling diagnosed with colorectal cancer at 24.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 59 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 22 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 52 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 47 years old, two second-degree relatives with prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 31 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 41 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 58 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 63 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 57 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 47 years old, multiple first-degree relatives with early-onset breast cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 23 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 33 years old, multiple first-degree relatives with early-onset breast cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 63 years old, sibling diagnosed with thyroid cancer at 40.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 67 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 69 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 22 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 57 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 29 years old, one first-degree relative with early-onset breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 24 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, sibling diagnosed with colorectal cancer at 37.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 34 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 33 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, multiple first-degree relatives with early-onset stomach cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 52 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 32 years old, multiple first-degree relatives with early-onset stomach cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 69 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 69 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 65 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 46 years old, parent and grandparent both diagnosed with melanoma before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 21 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 59 years old, one first-degree relative with early-onset ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 39 years old, parent and grandparent both diagnosed with ovarian cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 62 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 20 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 67 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 56 years old, one first-degree relative with early-onset breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 24 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, strong family clustering of colorectal cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 59 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 59 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 43 years old, one first-degree relative with early-onset stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 43 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 49 years old, known hereditary mutation (MLH1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 26 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 24 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 57 years old, multiple first-degree relatives with early-onset melanoma.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, two second-degree relatives with prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 34 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 52 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 28 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 62 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 22 years old, multiple first-degree relatives with early-onset thyroid cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 34 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 49 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 53 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 42 years old, multiple first-degree relatives with early-onset prostate cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 28 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 65 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 66 years old, parent and grandparent both diagnosed with ovarian cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 57 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 29 years old, strong family clustering of breast cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 45 years old, one parent diagnosed with breast cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, parent and grandparent both diagnosed with prostate cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 46 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 52 years old, one parent diagnosed with pancreatic cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 58 years old, parent and grandparent both diagnosed with ovarian cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 21 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 58 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 70 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 54 years old, parent and grandparent both diagnosed with breast cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 43 years old, sibling diagnosed with breast cancer at 36.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 50 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 36 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 54 years old, one first-degree relative with early-onset melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 70 years old, one first-degree relative with early-onset breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 26 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 54 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 43 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 45 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 70 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 25 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 36 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, one first-degree relative with early-onset pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 31 years old, strong family clustering of prostate cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 53 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 64 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 42 years old, strong family clustering of melanoma, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 67 years old, one parent diagnosed with ovarian cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 55 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 32 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 46 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 27 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 49 years old, parent and grandparent both diagnosed with prostate cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 24 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, one first-degree relative with early-onset stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 36 years old, sibling diagnosed with thyroid cancer at 22.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 41 years old, sibling diagnosed with ovarian cancer at 25.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 33 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 32 years old, one parent diagnosed with thyroid cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 32 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 27 years old, parent and grandparent both diagnosed with ovarian cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 68 years old, one parent diagnosed with breast cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 56 years old, one parent diagnosed with pancreatic cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 68 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, sibling diagnosed with breast cancer at 31.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 69 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 40 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 26 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 36 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 51 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, known hereditary mutation (BRCA1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, strong family clustering of melanoma, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 67 years old, multiple first-degree relatives with early-onset colorectal cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 51 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 39 years old, multiple first-degree relatives with early-onset pancreatic cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 64 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 60 years old, one parent diagnosed with ovarian cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 43 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 63 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 38 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 67 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 29 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 59 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 40 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 45 years old, one parent diagnosed with pancreatic cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 53 years old, two second-degree relatives with prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 25 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 50 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 25 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 44 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 28 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 42 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 28 years old, sibling diagnosed with colorectal cancer at 39.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 50 years old, known hereditary mutation (BRCA1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 36 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, sibling diagnosed with colorectal cancer at 29.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, one first-degree relative with early-onset prostate cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 38 years old, known hereditary mutation (BRCA1) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 55 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 61 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 67 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 38 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 59 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 54 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 65 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 51 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 50 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 27 years old, parent and grandparent both diagnosed with thyroid cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 22 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 33 years old, one parent diagnosed with prostate cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 30 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 50 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 33 years old, parent and grandparent both diagnosed with ovarian cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 30 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 58 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 51 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 54 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 51 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 32 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 36 years old, sibling diagnosed with stomach cancer at 20.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 21 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 62 years old, sibling diagnosed with melanoma at 36.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 29 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 26 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 32 years old, multiple first-degree relatives with early-onset ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 61 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 34 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 25 years old, known hereditary mutation (PALB2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 46 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 66 years old, two second-degree relatives with ovarian cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 26 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 32 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 55 years old, one parent diagnosed with melanoma before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, two second-degree relatives with melanoma.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 52 years old, sibling diagnosed with stomach cancer at 25.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 40 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 66 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 55 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 20 years old, multiple first-degree relatives with early-onset breast cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 39 years old, two second-degree relatives with breast cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 21 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, sibling diagnosed with colorectal cancer at 21.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 39 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 66 years old, sibling diagnosed with stomach cancer at 25.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 64 years old, known hereditary mutation (TP53) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 56 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 41 years old, multiple first-degree relatives with early-onset stomach cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 34 years old, multiple cases of breast and ovarian cancer on the maternal side, including first-degree relatives.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 39 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 64 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, known hereditary mutation (BRCA2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 29 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 23 years old, sibling diagnosed with melanoma at 22.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 69 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 61 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 37 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 46 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 58 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 48 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 43 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 35 years old, one parent diagnosed with colorectal cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 27 years old, one first-degree relative with early-onset pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 67 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 59 years old, one first-degree relative with early-onset colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 62 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 70 years old, no significant family history of cancer or inherited disorders.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 62 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 21 years old, strong family clustering of pancreatic cancer, affecting several generations.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 52 years old, mother had breast cancer before 40 and a maternal aunt had ovarian cancer.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 31 years old, one first-degree relative with early-onset thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 53 years old, no cancer cases on either side of family.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 21 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 35 years old, one parent diagnosed with pancreatic cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 21 years old, known hereditary mutation (BRCA2) in mother and sibling.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 62 years old, parent and grandparent both diagnosed with colorectal cancer before age 45.",2,high_risk,"Multiple early-onset cancers, strong clustering, or known mutation."
+"Patient 63 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 39 years old, two second-degree relatives with stomach cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 28 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 69 years old, two second-degree relatives with colorectal cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 55 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 68 years old, one parent diagnosed with stomach cancer before age 50.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 60 years old, two second-degree relatives with pancreatic cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 31 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 59 years old, two second-degree relatives with thyroid cancer.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 42 years old, sibling diagnosed with ovarian cancer at 44.",1,moderate_risk,Some early-onset cases or first-degree relatives suggest increased risk.
+"Patient 58 years old, parents and siblings healthy, no signs of hereditary disease.",0,low_risk,No signs of hereditary clustering or early-onset cases.
+"Patient 44 years old, one distant relative with late-onset cancer, no other risk factors.",0,low_risk,No signs of hereditary clustering or early-onset cases.
