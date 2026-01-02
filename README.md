@@ -43,6 +43,7 @@ model = AutoModelForSequenceClassification.from_pretrained(model_dir)
 Follow these steps to run the genetic counseling triage assistant locally.
 
 ### 1. Clone the repository
+```python
 ```bash
 git clone https://github.com/sarahfunto/Hackathon2.git
 cd Hackathon2
@@ -63,7 +64,7 @@ Then press ENTER on an empty line to run.
 - Multiple early-onset breast cancers in first-degree relatives...
 - Known mutations such as BRCA1/2 justify genetic counseling...
 WARNING : This tool is not a medical device and is built from synthetic data only
-
+```
 
 ## Project structure
 
@@ -73,7 +74,7 @@ Hackathon2/
 ├── models/
 │   └── genetic_lora_model/              # (Optional) Local model folder if downloaded
 ├── notebooks/
-│   └── Hackathon2_synthetic_dataset_clean.ipynb   # Training & exploration notebook
+│   └── Hackathon2_synthetic_dataset.ipynb   # Training & exploration notebook
 ├── src/
 │   ├── dataset.py                       # Dataset loading helpers (id2label, etc.)
 │   ├── model.py                         # Model loading + predict_case()
