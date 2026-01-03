@@ -23,6 +23,7 @@ It is for training / hackathon / educational purposes only.
 
 ##  Model Download (Hugging Face)
 
+The model is not stored in this repo (too large). It is loaded automatically from Hugging Face
 The fine-tuned DistilBERT model used by `main.py` is hosted on Hugging Face:
 
  https://huggingface.co/sarahfunto/genetic-lora-merged
@@ -72,7 +73,7 @@ Hackathon2/
 ├── data/
 │   └── genetic_cases.csv                # Synthetic genetic triage dataset
 ├── models/
-│   └── genetic_lora_model/              # (Optional) Local model folder if downloaded
+│   └── model hosted on Hugging Face            
 ├── notebooks/
 │   └── Hackathon2_synthetic_dataset.ipynb   # Training & exploration notebook
 ├── src/
