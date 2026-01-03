@@ -1,18 +1,23 @@
+import os
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-
-def load_model(model_dir: str):
+def load_model(model_id: str | None = None, device: str | None = None):
     """
     Load tokenizer and model from Hugging Face or local directory.
     """
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForSequenceClassification.from_pretrained(model_name)
+        if model_id is None:
+        model_id = os.environ.get("MODEL_ID", "sarahfunto/genetic-lora-merged")
+
+    if device is None:
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    model = AutoModelForSequenceClassification.from_pretrained(model_id)
     model.to(device)
-    model.eval()
-    return tokenizer, model
+   
+    return tokenizer, model, device
 
 def predict_case(tokenizer, model, text: str):
     """
@@ -38,4 +43,5 @@ def predict_case(tokenizer, model, text: str):
         "pred_id": pred_id,
         "confidence": confidence
     }
+
 
